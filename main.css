@@ -1,0 +1,44 @@
+
+
+.color-change{
+    color: blue;
+}
+
+.color-change1{
+    color: red;
+}
+
+.center-element{
+    display: block;
+    margin: auto;
+}
+
+.fifty{
+    width: 50%;
+}
+
+.bg-color{
+    background-color: bisque;
+}
+
+.bg-color2{
+    background-color: aqua;
+}
+
+.flex-r{
+    display: flex;
+    flex-direction: row;
+}
+
+.flex-c{
+    display: flex;
+    flex-direction: column;
+}
+
+.poketext{
+    font-family: 'Press Start 2P'
+}
+
+.center-text{
+    text-align: center;
+}
